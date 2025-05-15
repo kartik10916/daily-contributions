@@ -12,3 +12,4 @@
 - `2025-05-04T13:15:51+05:30`: Add new helper functions for utility pipeline
 - `2025-05-08T17:04:50+05:30`: Update dependency configurations
 - `2025-05-11T20:57:40+05:30`: Improve styling and UI component layout
+- `2025-05-15T19:22:44+05:30`: Update build scripts and packaging settings
