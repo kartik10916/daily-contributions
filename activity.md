@@ -16,3 +16,4 @@
 - `2025-05-16T13:57:49+05:30`: Refine utility helpers and helper methods
 - `2025-05-21T13:02:38+05:30`: Refine utility helpers and helper methods
 - `2025-05-25T14:46:08+05:30`: Restructure file organization and clean up imports
+- `2025-05-27T16:47:51+05:30`: Update dependency configurations
