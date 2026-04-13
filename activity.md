@@ -97,3 +97,4 @@
 - `2026-04-08T17:15:50+05:30`: Restructure file organization and clean up imports
 - `2026-04-09T17:55:46+05:30`: Refactor core module and clean up syntax
 - `2026-04-13T20:06:03+05:30`: Update dependency configurations
+- `2026-04-13T21:21:51+05:30`: Add new helper functions for utility pipeline
