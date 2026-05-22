@@ -114,3 +114,4 @@
 - `2026-05-14T20:41:19+05:30`: Restructure file organization and clean up imports
 - `2026-05-19T22:59:04+05:30`: Refactor core module and clean up syntax
 - `2026-05-21T15:56:04+05:30`: Sync daily progress and review code changes
+- `2026-05-22T14:10:28+05:30`: Add new helper functions for utility pipeline
