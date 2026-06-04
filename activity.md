@@ -122,3 +122,4 @@
 - `2026-06-03T14:32:31+05:30`: Fix edge cases in data parsing logic
 - `2026-06-03T10:05:40+05:30`: Update dependency configurations
 - `2026-06-04T12:47:28+05:30`: Enhance error handling and validation
+- `2026-06-04T21:27:35+05:30`: Refactor core module and clean up syntax
