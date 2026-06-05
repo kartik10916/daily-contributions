@@ -125,3 +125,4 @@
 - `2026-06-04T21:27:35+05:30`: Refactor core module and clean up syntax
 - `2026-06-04T11:04:56+05:30`: Update build scripts and packaging settings
 - `2026-06-05T18:02:53+05:30`: Add logging and telemetry enhancements
+- `2026-06-05T19:35:09+05:30`: Update dependency configurations
