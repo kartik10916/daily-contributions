@@ -164,3 +164,4 @@
 - `2026-08-17T17:57:10+05:30`: Update build scripts and packaging settings
 - `2026-08-25T22:33:31+05:30`: Improve styling and UI component layout
 - `2026-08-26T17:04:45+05:30`: Fix edge cases in data parsing logic
+- `2026-08-27T16:44:09+05:30`: Update build scripts and packaging settings
